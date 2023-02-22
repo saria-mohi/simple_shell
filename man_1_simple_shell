@@ -28,8 +28,8 @@ Latest commit 08c422e on Feb 22, 2023
  1 contributor
 43 lines (28 sloc)  1.42 KB
 
-.TH man 1 "16 Nov 2022" "0.1" "simple_shell man page"
-.TH man 1 "22 Feb 2023" "0.1" "simple_shell man page"
+.TH man 1 "8 Feb 2023" "0.1" "simple_shell man page"
+.TH man 1 "23 Feb 2023" "0.1" "simple_shell man page"
 
 .SH NAME
 .B simple_shell
@@ -37,7 +37,7 @@ Latest commit 08c422e on Feb 22, 2023
 
 
 .SH AUTHOR
-Saria Mohammed, Sideeg Mohammed noor..
+saria-mohi, Sideeg Mohammed noor..
 Footer
 © 2023 Saria-Mohi, Inc.
 Footer navigation
